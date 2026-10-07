@@ -21,8 +21,8 @@ nav
 
 nav a
 {
-color: white;
-margin: 10px;
+    color: white;
+    margin: 10px;
 }
 
 main 
@@ -33,4 +33,12 @@ main
 section 
 { 
     margin-bottom: 30px;
+}
+
+footer 
+{
+    background: #17314d;
+    color: white;
+    text-align: center;
+    padding: 15px; 
 }
